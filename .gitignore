@@ -1,0 +1,7 @@
+/build/
+/.idea/
+/.vscode/
+*.jsonl
+*.pcap
+*.pcapng
+.DS_Store
